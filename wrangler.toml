@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "cf-summer2020-internship-application"
 type = "javascript"
-account_id = ""
+account_id = "35ed90c91d993053307560802433288e"
 workers_dev = true
 route = ""
 zone_id = ""

@@ -1,8 +1,11 @@
 /**
  * 
+ * Cloudflare Workers Internship Application (Full-Stack)
+ * 
  * Name: Neuton Foo
+ * Email: nfoo@usc.edu / neuton.foo@gmail.com
  * School: The University of Southern California
- * Position: Cloudflare Workers Internship Application (Full-Stack)
+ * 
  * Description: Cloudflare Worker that randomly loads 1 of 2 websites
  * 
  * Watched these videos to better understand Promises, Await and Fetch:
